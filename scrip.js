@@ -1,0 +1,1 @@
+console.log("Selamat datang di TBM MUTIARA BINTANG");
